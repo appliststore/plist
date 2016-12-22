@@ -11,7 +11,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>http://172.18.40.56:8080/download/phcrm_cs.ipa</string>
+						<string>https://crmapp.test.phfund.com.cn:443/download/phcrm_cs.apk</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -19,7 +19,7 @@
 						<key>needs-shine</key>
 						<false/>
 						<key>url</key>
-						<string>http://172.18.40.56:8080/download/ios/icon.png</string>
+						<string>https://crmapp.test.phfund.com.cn:443/download/ios/icon.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
